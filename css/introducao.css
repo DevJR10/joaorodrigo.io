@@ -32,6 +32,11 @@
   color: #525252;
 }
 
+#foto_perfil{
+  height: 700px;
+  border-radius: 3%;
+}
+
 @media (max-width: 1000px) {
   .introducao h1 {
     font-size: 3rem;
