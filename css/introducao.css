@@ -48,6 +48,9 @@
     grid-template-columns: 1fr 1fr;
     gap: 40px;
   }
+  .introducao img{
+    display: none;
+  }
   .introducao h1 {
     font-size: 2rem;
   }
@@ -58,11 +61,8 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .introducao {
     grid-template-columns: 1fr;
-  }
-  .introducao img {
-    display: none;
   }
 }
