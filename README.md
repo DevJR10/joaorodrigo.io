@@ -25,6 +25,8 @@ Obrigado por visitar! 🚀
 Fique à vontade para explorar e voltar sempre que quiser!
 
 Linkedin: https://www.linkedin.com/in/jo%C3%A3o-rodrigo-albertini-858269216/
+
 Git Hub: https://github.com/DevJR10
+
 E-mail: jralbertini27@gmail.com
 
